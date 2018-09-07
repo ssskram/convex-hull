@@ -1,0 +1,11 @@
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/bin/Debug/netcoreapp2.0/getassets.deps.json
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/bin/Debug/netcoreapp2.0/getassets.runtimeconfig.json
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/bin/Debug/netcoreapp2.0/getassets.runtimeconfig.dev.json
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/bin/Debug/netcoreapp2.0/getassets.dll
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/bin/Debug/netcoreapp2.0/getassets.pdb
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/obj/Debug/netcoreapp2.0/getassets.csprojAssemblyReference.cache
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/obj/Debug/netcoreapp2.0/getassets.csproj.CoreCompileInputs.cache
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/obj/Debug/netcoreapp2.0/getassets.AssemblyInfoInputs.cache
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/obj/Debug/netcoreapp2.0/getassets.AssemblyInfo.cs
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/obj/Debug/netcoreapp2.0/getassets.dll
+/home/ssskram/OtherRepos/Functions/pghWorks/getassets/obj/Debug/netcoreapp2.0/getassets.pdb
