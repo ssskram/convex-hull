@@ -46,8 +46,8 @@ namespace getassets {
         }
 
         public async Task getParks () {
-            var key = "QVBJQWRtaW46Y2FydGVncmFwaDE=";
-            var cartegraphUrl = "https://cgweb06.cartegraphoms.com/PittsburghPA/api/v1/Classes/ParksClass?fields=Oid,CgShape,IDField";
+            var key = "<key>";
+            var cartegraphUrl = "<url>";
             client.DefaultRequestHeaders.Clear ();
             client.DefaultRequestHeaders.Authorization =
                 new AuthenticationHeaderValue ("Basic", key);
